@@ -1,5 +1,5 @@
 # help-app
 
 # References
-- https://templated.co/
-- Denise Case's repo named pbl-lifeline
+- Template taken from https://templated.co/
+- Content and images Denise Case's repo named pbl-lifeline
